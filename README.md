@@ -1,5 +1,6 @@
 # JuanitoTrav
 This proyect is a blog
+this project helps us to control what we spend
 
 
 ## Configuration and Deployment :snowflake:
